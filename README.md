@@ -48,9 +48,9 @@ Você pode testar a funcionalidade da lâmpada diretamente no navegador! Basta i
 ## Imagens Utilizadas
 As imagens da lâmpada são usadas para ilustrar seu estado:
 
-ligada.jpg: Lâmpada acesa.
-desligada.jpg: Lâmpada apagada.
-quebrada.jpg: Lâmpada quebrada.
+ligada.jpg: Lâmpada acesa.  
+desligada.jpg: Lâmpada apagada.  
+quebrada.jpg: Lâmpada quebrada.  
 
 Certifique-se de que as imagens estejam na pasta correta (img) no mesmo diretório que o arquivo index.html.  
   
