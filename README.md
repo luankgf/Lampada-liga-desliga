@@ -1,4 +1,4 @@
-"# Lampada-liga-desliga" 
+## "Lampada-liga-desliga" 
 
 Este é um projeto utilizando JavaScript, HTML e CSS  de uma **Lâmpada Interativa**, onde você pode ligar, desligar e até quebrar uma lâmpada com um simples clique!
 
