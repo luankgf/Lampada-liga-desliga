@@ -11,7 +11,7 @@ O projeto consiste em uma interface que simula o funcionamento de uma lâmpada. 
 
 Este é um exercício prático para aprender e aplicar conceitos de **JavaScript**, **HTML**, e **CSS**.
 
-## 🖥 Demonstração
+##  Demonstração
 
 Você pode testar a funcionalidade da lâmpada diretamente no navegador! Basta interagir com os botões para ligar/desligar ou clicar duas vezes na imagem da lâmpada para quebrá-la.
 
